@@ -1,4 +1,4 @@
-# Ultimate-task
+# UltimateAI-task
 
 ## Getting started
 
