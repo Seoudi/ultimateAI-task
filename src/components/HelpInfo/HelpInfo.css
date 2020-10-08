@@ -1,0 +1,27 @@
+.help-info-container {
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  width: 266px;
+  padding: 0.5rem;
+}
+.help-info-header {
+  display: flex;
+  align-items: center;
+}
+.help-info-title {
+  color: #50514f;
+  font-size: 14px;
+  margin: 0 0.5rem;
+  display: inline-block;
+}
+.help-info-description {
+  color: #8f908f;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+.help-info-image {
+  width: 14px;
+  margin-right: 8px;
+}

@@ -1,0 +1,16 @@
+.wizard-container {
+  display: flex;
+  justify-content: space-around;
+}
+.wizard-item {
+  text-align: center;
+  width: 100%;
+  cursor: pointer;
+  background-color: #f5f5f5;
+}
+.wizard-item.active {
+  border: 1px solid rgb(113, 206, 227);
+  background-color: rgb(239, 250, 252);
+  border-radius: 0.25rem;
+  color: rgb(37, 71, 80);
+}
